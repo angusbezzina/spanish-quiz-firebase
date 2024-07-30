@@ -1,5 +1,7 @@
 # Spanish Quiz (with Firebase)
 
+A little Firebase experiment to help me practice my Spanish.
+
 ## Getting Started
 
 ### `yarn`
