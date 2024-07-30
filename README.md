@@ -12,9 +12,13 @@ Installs the relevant project dependencies.
 
 Runs the app locally at [http://localhost:3000](http://localhost:3000)
 
+## Testing
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.
+
+## Building/Deploying
 
 ### `yarn build`
 
